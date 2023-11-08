@@ -13,3 +13,5 @@ To run this:
       npm install
 4. At the root project folder, run:
       node server.js
+
+Once application is running, run this URL in the browser http://localhost:3000/download. File will get downloaded through the default browser download manager.
